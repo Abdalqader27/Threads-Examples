@@ -3,7 +3,8 @@ package com.abdalqader27.First_Session;
 
 import static java.lang.System.*;
 
-public class Main {
+public class Main extends Thread{
+
 
     public static void main(String[] args) {
 
@@ -14,7 +15,7 @@ public class Main {
         fThread.start();
         sThread.start();
 
-        //     fThread.run();
+        // fThread.run();
         //   sThread.run(); or Run() => 'Nothing to do'
 
 

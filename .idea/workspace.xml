@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="524a2dc1-7dbc-44ae-858c-9e185769c622" name="Default Changelist" comment="" />
+    <list default="true" id="524a2dc1-7dbc-44ae-858c-9e185769c622" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/abdalqader27/Second_Session/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/abdalqader27/Second_Session/first_example/BasketBallPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/abdalqader27/Second_Session/first_example/SportClub.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/abdalqader27/Second_Session/second_example/BasketBallPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/abdalqader27/Second_Session/second_example/SportClub.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/abdalqader27/Third_Session/Shared.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/abdalqader27/Third_Session/SumNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/abdalqader27/Third_Session/Thread1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/abdalqader27/Third_Session/Thread2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Threads Examples/com/abdalqader27/First_Session/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Threads Examples/com/abdalqader27/First_Session/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/abdalqader27/First_Session/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/abdalqader27/First_Session/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,23 +25,49 @@
   <component name="CodeStyleSettingsInfer">
     <option name="done" value="true" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="D:\_projects files\_java\Threads Examples\.idea" />
+      </set>
+    </option>
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1jwiruR7NmyITrIxrwhYtmQEMzU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/abdalqader27/First_Session" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/abdalqader27/Second_Session/second_example" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
-  <component name="RunManager" selected="Application.Main (1)">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\_projects files\_java\Threads Examples\src\com\abdalqader27\Second_Session\second_example" />
+      <recent name="D:\_projects files\_java\Threads Examples\src\com\abdalqader27\First_Session" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.SumNumbers">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.abdalqader27.First_Session.Main" />
       <module name="Threads Examples" />
@@ -50,13 +91,58 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SportClub (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.abdalqader27.Second_Session.second_example.SportClub" />
+      <module name="Threads Examples" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.abdalqader27.Second_Session.second_example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SportClub" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.abdalqader27.Second_Session.first_example.SportClub" />
+      <module name="Threads Examples" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.abdalqader27.Second_Session.first_example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SumNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.abdalqader27.Third_Session.SumNumbers" />
+      <module name="Threads Examples" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.abdalqader27.Third_Session.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.Main (1)" />
+      <item itemvalue="Application.SportClub" />
+      <item itemvalue="Application.SportClub (1)" />
+      <item itemvalue="Application.SumNumbers" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SumNumbers" />
+        <item itemvalue="Application.SportClub (1)" />
         <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.SportClub" />
       </list>
     </recent_temporary>
   </component>
@@ -83,24 +169,67 @@
       <option name="presentableId" value="Default" />
       <updated>1604721756050</updated>
     </task>
+    <task id="LOCAL-00001" summary="first session">
+      <created>1604722148794</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1604722148794</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first session" />
+    <option name="LAST_COMMIT_MESSAGE" value="first session" />
+  </component>
   <component name="WindowStateProjectService">
-    <state width="1493" height="214" key="GridCell.Tab.0.bottom" timestamp="1604722067738">
+    <state x="574" y="100" key="#com.intellij.ide.util.MemberChooser" timestamp="1606135519478">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="214" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1604722067738" />
-    <state width="1493" height="214" key="GridCell.Tab.0.center" timestamp="1604722067737">
+    <state x="574" y="100" key="#com.intellij.ide.util.MemberChooser/0.0.1536.834@0.0.1536.834" timestamp="1606135519478" />
+    <state x="388" y="10" key="CommitChangelistDialog2" timestamp="1604722145251">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="214" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1604722067737" />
-    <state width="1493" height="214" key="GridCell.Tab.0.left" timestamp="1604722067735">
+    <state x="388" y="10" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1604722145251" />
+    <state x="549" y="171" key="FileChooserDialogImpl" timestamp="1605454816530">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="214" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1604722067735" />
-    <state width="1493" height="214" key="GridCell.Tab.0.right" timestamp="1604722067737">
+    <state x="549" y="171" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1605454816530" />
+    <state width="1493" height="213" key="GridCell.Tab.0.bottom" timestamp="1606141344051">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="214" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1604722067737" />
+    <state width="1493" height="213" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1606141344051" />
+    <state width="1493" height="213" key="GridCell.Tab.0.center" timestamp="1606141344051">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="213" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1606141344051" />
+    <state width="1493" height="213" key="GridCell.Tab.0.left" timestamp="1606141344051">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="213" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1606141344051" />
+    <state width="1493" height="213" key="GridCell.Tab.0.right" timestamp="1606141344051">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="213" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1606141344051" />
+    <state x="277" y="59" key="SettingsEditor" timestamp="1605471911101">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="277" y="59" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1605471911101" />
+    <state x="361" y="138" key="Vcs.Push.Dialog.v2" timestamp="1604722155639">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="361" y="138" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1604722155639" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/abdalqader27/Second_Session/first_example/SportClub.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
