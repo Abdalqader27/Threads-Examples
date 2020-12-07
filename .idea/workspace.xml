@@ -2,11 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="524a2dc1-7dbc-44ae-858c-9e185769c622" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/abdalqader27/Fourth_Session/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/abdalqader27/Fourth_Session/Player1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/abdalqader27/Fourth_Session/Player2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/abdalqader27/Fourth_Session/Share.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/abdalqader27/Five_Session/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/abdalqader27/Five_Session/Player1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/abdalqader27/Five_Session/Player2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/abdalqader27/Five_Session/Share.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/abdalqader27/Fourth_Session/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/abdalqader27/Fourth_Session/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/abdalqader27/Fourth_Session/Share.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/abdalqader27/Fourth_Session/Share.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +55,9 @@
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.abdalqader27.Five_Session" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\_projects files\_java\Threads Examples\src\com\abdalqader27\Second_Session\second_example" />
       <recent name="D:\_projects files\_java\Threads Examples\src\com\abdalqader27\First_Session" />
@@ -126,10 +131,10 @@
     </configuration>
     <list>
       <item itemvalue="Application.Main (1)" />
-      <item itemvalue="Application.SportClub" />
-      <item itemvalue="Application.SportClub (1)" />
-      <item itemvalue="Application.SumNumbers" />
       <item itemvalue="Application.Main (2)" />
+      <item itemvalue="Application.SportClub (1)" />
+      <item itemvalue="Application.SportClub" />
+      <item itemvalue="Application.SumNumbers" />
     </list>
     <recent_temporary>
       <list>
@@ -178,7 +183,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606141596447</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="third session">
+      <created>1606749228355</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1606749228355</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -191,38 +203,38 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="574" y="100" key="#com.intellij.ide.util.MemberChooser/0.0.1536.834@0.0.1536.834" timestamp="1606740684550" />
-    <state x="388" y="10" key="CommitChangelistDialog2" timestamp="1606141593933">
+    <state x="388" y="10" key="CommitChangelistDialog2" timestamp="1606749226546">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="388" y="10" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1606141593933" />
+    <state x="388" y="10" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1606749226546" />
     <state x="549" y="171" key="FileChooserDialogImpl" timestamp="1605454816530">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="549" y="171" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1605454816530" />
-    <state width="1493" height="213" key="GridCell.Tab.0.bottom" timestamp="1606741547656">
+    <state width="1493" height="213" key="GridCell.Tab.0.bottom" timestamp="1606750680135">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="213" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1606741547656" />
-    <state width="1493" height="213" key="GridCell.Tab.0.center" timestamp="1606741547656">
+    <state width="1493" height="213" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1606750680135" />
+    <state width="1493" height="213" key="GridCell.Tab.0.center" timestamp="1606750680134">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="213" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1606741547656" />
-    <state width="1493" height="213" key="GridCell.Tab.0.left" timestamp="1606741547656">
+    <state width="1493" height="213" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1606750680134" />
+    <state width="1493" height="213" key="GridCell.Tab.0.left" timestamp="1606750680134">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="213" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1606741547656" />
-    <state width="1493" height="213" key="GridCell.Tab.0.right" timestamp="1606741547656">
+    <state width="1493" height="213" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1606750680134" />
+    <state width="1493" height="213" key="GridCell.Tab.0.right" timestamp="1606750680135">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="213" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1606741547656" />
+    <state width="1493" height="213" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1606750680135" />
     <state x="277" y="59" key="SettingsEditor" timestamp="1605471911101">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="277" y="59" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1605471911101" />
-    <state x="361" y="138" key="Vcs.Push.Dialog.v2" timestamp="1606141598792">
+    <state x="361" y="138" key="Vcs.Push.Dialog.v2" timestamp="1606749230262">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="361" y="138" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1606141598792" />
+    <state x="361" y="138" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1606749230262" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -231,6 +243,14 @@
           <url>file://$PROJECT_DIR$/src/com/abdalqader27/Second_Session/first_example/SportClub.java</url>
           <line>18</line>
           <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/abdalqader27/Fourth_Session/Main.java</url>
+          <line>5</line>
+          <properties class="com.abdalqader27.Fourth_Session.Main" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

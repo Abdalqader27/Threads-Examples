@@ -1,4 +1,5 @@
-package com.abdalqader27.Fourth_Session;
+package com.abdalqader27.Five_Session;
+
 
 import static java.lang.System.out;
 
@@ -21,8 +22,9 @@ public class Main {
         } catch (InterruptedException e) {
             e.printStackTrace();
         }
-        out.println(share.getScore());
+        out.println(share.Score);
 
 
     }
+
 }

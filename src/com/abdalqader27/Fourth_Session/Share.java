@@ -4,7 +4,7 @@ public class Share {
  private   int score=0;
  private boolean tag1Inside;
  private boolean tag2Inside;
-    void increment(){
+    public  void increment(){
         score++;
     }
 
